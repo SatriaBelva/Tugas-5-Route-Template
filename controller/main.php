@@ -1,5 +1,5 @@
 <?php
-include_once 'contact_controller.php';
-include_once 'user_controller.php';
+include_once 'contact.php';
+include_once 'user.php';
 
 session_start();
